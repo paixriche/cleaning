@@ -2,8 +2,8 @@
 A game about cleaning money and running a cartel.
 
 ### Math
-Statistically based.
-Microeconomis involved
+- Statistically based.
+- Microeconomis involved
 - Cartel can restrict supply
 
 ### Aspect of game
